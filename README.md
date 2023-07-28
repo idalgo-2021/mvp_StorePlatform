@@ -1,5 +1,8 @@
 # mvp_StorePlatform
-Prototype of Store Platform (based on 1C Platform; Some ideas were taken from the UT10.3)
+Prototype of Store Platform(based on 1C platform; Some ideas were taken from the UT10.3)
+
+* Конфигурация - товароучетной системы. М.б. использована в качестве backend(а) для работы с Интернет магазинами. 
+
 
 
 ![2](https://user-images.githubusercontent.com/82776515/185469136-fe674c84-1bf9-44e6-829d-c795e7d9c85f.JPG)
