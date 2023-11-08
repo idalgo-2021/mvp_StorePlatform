@@ -23,7 +23,7 @@
 
 ![2](https://user-images.githubusercontent.com/82776515/185469136-fe674c84-1bf9-44e6-829d-c795e7d9c85f.JPG)
 
-![StorePlatfom(to-do list)](https://github.com/idalgo-2021/mvp_StorePlatform/assets/82776515/12a43d60-4f62-4326-983e-dd5093ed390f)
+![](https://github.com/idalgo-2021/mvp_StorePlatform/assets/82776515/12a43d60-4f62-4326-983e-dd5093ed390f)
 
 ![1](https://user-images.githubusercontent.com/82776515/185807941-f1ed12cb-3d6b-4c2d-8fc6-adad91e6584e.JPG)
 
